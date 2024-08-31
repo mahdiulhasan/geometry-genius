@@ -8606,8 +8606,8 @@ html:has(.drawer-open.drawer-open) {
   height: 1.25rem;
 }
 
-.w-24 {
-  width: 6rem;
+.w-16 {
+  width: 4rem;
 }
 
 .w-5 {
@@ -8636,18 +8636,6 @@ html:has(.drawer-open.drawer-open) {
 
 .w-full {
   width: 100%;
-}
-
-.w-20 {
-  width: 5rem;
-}
-
-.w-16 {
-  width: 4rem;
-}
-
-.w-\[80px\] {
-  width: 80px;
 }
 
 .flex-1 {
@@ -9863,13 +9851,13 @@ html:has(.drawer-open.drawer-open) {
   line-height: 1.5rem;
 }
 
-.text-xl {
-  font-size: 1.25rem;
+.text-lg {
+  font-size: 1.125rem;
   line-height: 1.75rem;
 }
 
-.text-lg {
-  font-size: 1.125rem;
+.text-xl {
+  font-size: 1.25rem;
   line-height: 1.75rem;
 }
 
